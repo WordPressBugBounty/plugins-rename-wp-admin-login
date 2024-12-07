@@ -2,10 +2,11 @@
 Tags:              rename wp-admin login, change wp-login, wp-admin, login, custom login url
 Contributors:      nunosarmento
 Requires at least: 5.0
-Tested up to:      6.6
+Tested up to:      6.7
 Stable tag:        1.0.0
 License:           GPL-2.0+
 
+Rename wp-admin login* is a plugin that allows us to rename wp-admin login URL to anything you want
 
 == Description ==
 
