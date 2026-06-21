@@ -2,7 +2,7 @@
 Tags:              rename wp-admin login, change wp-login, wp-admin, login, custom login url
 Contributors:      nunosarmento
 Requires at least: 5.0
-Tested up to:      6.9
+Tested up to:      7.0
 Stable tag:        1.0.0
 License:           GPL-2.0+
 
